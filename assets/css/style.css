@@ -78,6 +78,7 @@ body {
 }
 
 .bi-whatsapp {
+  color: green;
   background-color: green;
   border-color: green;
 }
