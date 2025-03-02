@@ -76,3 +76,8 @@ body {
 .footer .link a:hover {
   color: #0d6efd;
 }
+
+.bi-whatsapp {
+  background-color: green;
+  border-color: green;
+}
